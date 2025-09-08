@@ -1,0 +1,18 @@
+{
+  "code": 200,
+  "message": "获取成功",
+  "data": [
+    {
+      "id": "5",
+      "title": "系统公告",
+      "content": "全新版本，已适配所有学校，去下载？",
+      "priority": 100,
+      "force_read": true,
+      "start_time": "2023-06-01 00:00:00",
+      "end_time": "2099-12-31 23:59:59",
+      "link": "https://www.qianxun1688.com/details/F01F123A",
+      "link_type": 0,
+      "auto_open": true
+    }
+  ]
+}
