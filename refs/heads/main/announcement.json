@@ -4,8 +4,8 @@
   "data": [
     {
       "id": "5",
-      "title": "系统公告",
-      "content": "全新版本，已适配所有学校，去下载？",
+      "title": "提示",
+      "content": "请下载新版本",
       "priority": 100,
       "force_read": true,
       "start_time": "2023-06-01 00:00:00",
